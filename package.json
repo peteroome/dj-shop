@@ -21,7 +21,7 @@
     "http-proxy-middleware": "^0.20.0",
     "itunes-helper": "^1.0.5",
     "jwt-decode": "^2.2.0",
-    "node-sass": "^4.13.0",
+    "node-sass": "^4.13.1",
     "pluralize": "^8.0.0",
     "query-string": "^6.8.2",
     "react": "^16.10.2",
